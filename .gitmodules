@@ -1,0 +1,3 @@
+[submodule "key-encryption"]
+	path = key-encryption
+	url = ../Key-Encryption-GUI
