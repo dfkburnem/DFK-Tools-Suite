@@ -1,3 +1,6 @@
 [submodule "key-encryption"]
 	path = key-encryption
 	url = ../Key-Encryption-GUI
+[submodule "duel-tool"]
+	path = duel-tool
+	url = ../Duel-Tool-GUI
