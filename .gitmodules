@@ -1,6 +1,9 @@
 [submodule "key-encryption"]
 	path = key-encryption
-	url = ../Key-Encryption-GUI
+	url = https://github.com/dfkburnem/Key-Encryption-GUI.git
 [submodule "duel-tool"]
 	path = duel-tool
-	url = ../Duel-Tool-GUI
+	url = https://github.com/dfkburnem/Duel-Tool-GUI.git
+[submodule "Hero-Bridge"]
+	path = Hero-Bridge
+	url = https://github.com/dfkburnem/Hero-Bridge.git
