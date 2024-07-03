@@ -7,3 +7,6 @@
 [submodule "Hero-Bridge"]
 	path = Hero-Bridge
 	url = https://github.com/dfkburnem/Hero-Bridge.git
+[submodule "Ratcrawler"]
+	path = Ratcrawler
+	url = https://github.com/dfkburnem/Ratcrawler.git
